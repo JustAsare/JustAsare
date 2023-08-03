@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=na2yaw&label=Profile%20views&color=0e75b6&style=flat" alt="na2yaw" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python{Django}**
 
-- 📫 How to reach me **nanabajustoo@gmail.com**
+- 📫 How to reach me **justic.asar7@gmail.com**
 
 - ⚡ Fun fact **I think am funny**
 
