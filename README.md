@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python{Django}**
 
-- 📫 How to reach me **justic.asar7@gmail.com**
+- 📫 How to reach me **justice.asar7@gmail.com**
 
 - ⚡ Fun fact **I think am funny**
 
